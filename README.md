@@ -1,4 +1,4 @@
-# 🥗 Nutri### Principais Funcionalidades:
+# 🥗 NutriHealth Principais Funcionalidades:
 
 - 📊 **Dashboard Nutricional Interativo** com visualização de calorias consumidas vs. queimadas
 - 🤖 **Predição de Peso** usando princípios termodinâmicos (7700 kcal ≈ 1kg)
@@ -46,8 +46,8 @@ O **NutriHealth Analytics** é um aplicativo Flutter desenvolvido para monitorar
 1. **Clone o repositório:**
 
 ```bash
-git clone <url-do-repositorio>
-cd app3_ciencia_dados
+git clone https://github.com/leopaivap/flutter-health-analytics
+cd flutter-health-analytics
 ```
 
 2. **Instale as dependências:**
@@ -126,6 +126,7 @@ Ao abrir o app, você verá:
 - **Insights Automáticos**: Análise inteligente dos dados com recomendações
 
 **Funcionalidades:**
+
 - Filtro de período (7, 30, 90, 180 dias)
 - Cálculo de variância e desvio padrão
 - Projeção científica de peso (regra 7700 kcal = 1kg)
@@ -143,6 +144,7 @@ Ao abrir o app, você verá:
 - **Diversidade Nutricional**: Métricas de variedade alimentar
 
 **Recomendações geradas automaticamente:**
+
 - Ajuste de balanço calórico
 - Frequência de exercícios
 - Variedade alimentar
@@ -181,8 +183,8 @@ O aplicativo analisa automaticamente:
 - 👨‍💻 **Leonardo Paiva**
 - 👨‍💻 **Salomão Ferreira**
 
-**Disciplina:** Projeto III - Ciência de Dados  
-**Instituição:** [Sua Universidade]  
+**Disciplina:** Tópicos Especiais em Computação & Ciência de Dados  
+**Instituição:** IFSULDEMINAS  
 **Ano:** 2025
 
 ---
@@ -202,7 +204,7 @@ Para informações detalhadas sobre:
 
 ## 📜 Licença
 
-Este projeto foi desenvolvido para fins acadêmicos como parte do trabalho universitário "Projeto III".
+Este projeto foi desenvolvido para fins acadêmicos como parte de um trabalho universitário.
 
 ---
 
@@ -213,15 +215,6 @@ Este projeto foi desenvolvido para fins acadêmicos como parte do trabalho unive
 - **fl_chart** - Biblioteca para gráficos interativos
 - **csv** - Exportação de dados em CSV
 - **universal_html** - Geração de relatórios HTML/PDF
-
----
-
-## 📞 Contato
-
-Para dúvidas ou sugestões:
-
-- **Leonardo Paiva**: [email/contato]
-- **Salomão Ferreira**: [email/contato]
 
 ---
 

@@ -522,26 +522,11 @@ anchor.click();
 
 1. **Harris, J. A., & Benedict, F. G. (1918).** A biometric study of human basal metabolism. _Proceedings of the National Academy of Sciences_, 4(12), 370-373.
 
-2. **National Institutes of Health (NIH).** Calorie Calculator. Disponível em: https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm
+2. **USDA FoodData Central.** U.S. Department of Agriculture. Disponível em: https://fdc.nal.usda.gov/
 
-3. **USDA FoodData Central.** U.S. Department of Agriculture. Disponível em: https://fdc.nal.usda.gov/
+3. **American College of Sports Medicine (ACSM).** Guidelines for Exercise Testing and Prescription. 10th Edition.
 
-4. **American College of Sports Medicine (ACSM).** Guidelines for Exercise Testing and Prescription. 10th Edition.
-
-5. **World Health Organization (WHO).** Obesity and overweight. Disponível em: https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight
-
----
-
-## 📊 Estatísticas do Projeto
-
-| Métrica                    | Valor                     |
-| -------------------------- | ------------------------- |
-| Linhas de código           | ~1500                     |
-| Arquivos Dart              | 4 principais              |
-| Categorias nutricionais    | 10 (5 ingestão + 5 gasto) |
-| Período de análise         | 180 dias (6 meses)        |
-| Registros gerados          | ~1000-1500                |
-| Algoritmos de Data Science | 5 técnicas                |
+4. **World Health Organization (WHO).** Obesity and overweight. Disponível em: https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight
 
 ---
 
@@ -560,4 +545,4 @@ Este projeto serve como base sólida para expansões futuras e comprova a viabil
 ---
 
 **Desenvolvido com 💚 por Leonardo Paiva e Salomão Ferreira**  
-**Projeto III - Ciência de Dados - 2025**
+**Tópicos Especiais em Computação & Ciência de Dados - 2025**

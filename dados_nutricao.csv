@@ -1,0 +1,103 @@
+data;tipo;categoria;valor;descricao
+2023-10-01;ingestao;cafe_da_manha;450;Pão integral com ovos e café preto
+2023-10-01;ingestao;almoco;780;Prato feito: arroz, feijão, frango e salada
+2023-10-01;gasto;exercicio;350;Musculação: Treino A (Peito e Tríceps)
+2023-10-01;ingestao;lanche;200;Iogurte proteico com aveia
+2023-10-01;ingestao;jantar;550;Wrap de atum com vegetais
+2023-10-02;ingestao;cafe_da_manha;380;Tapioca com queijo cottage
+2023-10-02;ingestao;almoco;850;Macarrão à bolonhesa com queijo
+2023-10-02;gasto;exercicio;500;Corrida na esteira (5km)
+2023-10-02;ingestao;jantar;400;Sopa de legumes com frango desfiado
+2023-10-03;ingestao;cafe_da_manha;420;Omelete de 3 ovos com espinafre
+2023-10-03;gasto;basal_extra;200;Caminhada ida e volta do trabalho
+2023-10-03;ingestao;almoco;600;Peixe grelhado com purê de batata
+2023-10-03;ingestao;lanche;150;Fruta (Maçã e Banana)
+2023-10-03;gasto;exercicio;400;Aula de Crossfit
+2023-10-03;ingestao;jantar;500;Salada Caesar com frango
+2023-10-04;ingestao;cafe_da_manha;500;Vitamina de abacate com whey
+2023-10-04;ingestao;almoco;900;Feijoada light (quarta-feira)
+2023-10-04;gasto;exercicio;300;Caminhada leve no parque
+2023-10-04;ingestao;lanche;250;Barra de proteína
+2023-10-04;ingestao;jantar;450;Omelete com salada
+2023-10-05;ingestao;cafe_da_manha;400;Pão de queijo e café com leite
+2023-10-05;ingestao;almoco;700;Strogonoff de frango com arroz
+2023-10-05;gasto;exercicio;600;Treino de Pernas intenso
+2023-10-05;ingestao;lanche;180;Mix de castanhas
+2023-10-05;ingestao;jantar;520;Sanduíche natural de peito de peru
+2023-10-06;ingestao;cafe_da_manha;350;Frutas com granola e mel
+2023-10-06;ingestao;almoco;800;Bife acebolado com fritas
+2023-10-06;gasto;exercicio;450;Natação (45 min)
+2023-10-06;ingestao;lanche;300;Açaí pequeno com banana
+2023-10-06;ingestao;jantar;600;Hambúrguer caseiro sem pão
+2023-10-07;ingestao;cafe_da_manha;600;Brunch de sábado (panquecas)
+2023-10-07;ingestao;almoco;1200;Churrasco com amigos (carne e pão)
+2023-10-07;gasto;lazer_ativo;300;Futebol com amigos
+2023-10-07;ingestao;jantar;800;Pizza (3 fatias)
+2023-10-08;ingestao;cafe_da_manha;300;Café preto e torrada
+2023-10-08;ingestao;almoco;1100;Lasanha de domingo
+2023-10-08;gasto;basal_extra;150;Limpeza da casa
+2023-10-08;ingestao;jantar;300;Chá e biscoitos leves
+2023-10-09;ingestao;cafe_da_manha;450;Pão integral e ovos mexidos
+2023-10-09;ingestao;almoco;750;Filé de frango e arroz integral
+2023-10-09;gasto;exercicio;550;Aula de Spinning
+2023-10-09;ingestao;lanche;200;Iogurte com chia
+2023-10-09;ingestao;jantar;480;Sopa de abóbora com carne
+2023-10-10;ingestao;cafe_da_manha;400;Mingau de aveia
+2023-10-10;ingestao;almoco;820;Risoto de funghi
+2023-10-10;gasto;exercicio;400;Musculação (Costas e Bíceps)
+2023-10-10;ingestao;lanche;150;Fruta (Pera)
+2023-10-10;ingestao;jantar;550;Salmão grelhado com legumes
+2023-10-11;ingestao;cafe_da_manha;380;Torrada com geleia sem açúcar
+2023-10-11;ingestao;almoco;700;Escondidinho de carne moída
+2023-10-11;gasto;exercicio;350;Yoga e alongamento
+2023-10-11;ingestao;lanche;220;Queijo coalho assado
+2023-10-11;ingestao;jantar;450;Crepioca de frango
+2023-10-12;ingestao;cafe_da_manha;550;Café colonial feriado
+2023-10-12;ingestao;almoco;950;Feijoada completa
+2023-10-12;gasto;lazer_ativo;400;Caminhada em trilha
+2023-10-12;ingestao;lanche;300;Sorvete
+2023-10-12;ingestao;jantar;400;Salada de frutas
+2023-10-13;ingestao;cafe_da_manha;350;Suco verde e ovos cozidos
+2023-10-13;ingestao;almoco;780;Peixe frito com salada
+2023-10-13;gasto;exercicio;500;Boxe funcional
+2023-10-13;ingestao;lanche;180;Biscoito de arroz com pasta de amendoim
+2023-10-13;ingestao;jantar;500;Omelete de forno
+2023-10-14;ingestao;cafe_da_manha;450;Pão na chapa
+2023-10-14;ingestao;almoco;850;Nhoque à bolonhesa
+2023-10-14;gasto;exercicio;600;Corrida longa (10km)
+2023-10-14;ingestao;jantar;900;Hambúrguer artesanal com batata
+2023-10-15;ingestao;cafe_da_manha;300;Café com leite desnatado
+2023-10-15;ingestao;almoco;1000;Macarronada de domingo
+2023-10-15;gasto;basal_extra;100;Descanso ativo
+2023-10-15;ingestao;jantar;350;Sanduíche leve
+2023-10-16;ingestao;cafe_da_manha;420;Ovos mexidos com bacon
+2023-10-16;ingestao;almoco;750;Picadinho de carne com legumes
+2023-10-16;gasto;exercicio;450;Treino HIIT
+2023-10-16;ingestao;lanche;200;Smoothie de frutas vermelhas
+2023-10-16;ingestao;jantar;480;Abobrinha recheada
+2023-10-17;ingestao;cafe_da_manha;380;Cuscuz com ovo
+2023-10-17;ingestao;almoco;800;Bife à milanesa (airfryer)
+2023-10-17;gasto;exercicio;400;Pilates
+2023-10-17;ingestao;lanche;150;Gelatina zero
+2023-10-17;ingestao;jantar;520;Panqueca integral de carne
+2023-10-18;ingestao;cafe_da_manha;450;Pão de forma com queijo minas
+2023-10-18;ingestao;almoco;720;Frango xadrez
+2023-10-18;gasto;exercicio;550;Aula de Zumba
+2023-10-18;ingestao;lanche;250;Protein ball
+2023-10-18;ingestao;jantar;460;Sopa de ervilha
+2023-10-19;ingestao;cafe_da_manha;400;Granola com iogurte
+2023-10-19;ingestao;almoco;850;Baião de dois
+2023-10-19;gasto;exercicio;500;Musculação (Ombros e Abdômen)
+2023-10-19;ingestao;lanche;180;Barra de nuts
+2023-10-19;ingestao;jantar;500;Salada completa com atum
+2023-10-20;ingestao;cafe_da_manha;350;Banana amassada com aveia
+2023-10-20;ingestao;almoco;780;Peixe ao molho de camarão
+2023-10-20;gasto;exercicio;350;Caminhada rápida
+2023-10-20;ingestao;lanche;200;Shake proteico
+2023-10-20;ingestao;jantar;600;Pizza fit (massa de couve-flor)
+2023-10-21;ingestao;cafe_da_manha;500;Waffles com mel
+2023-10-21;ingestao;almoco;900;Feijoada
+2023-10-21;gasto;exercicio;0;Dia de descanso total
+2023-10-21;ingestao;jantar;850;Jantar fora (Comida Japonesa)
+2023-10-22;ingestao;cafe_da_manha;300;Suco detox
+2023-10-22;ingestao;almoco;1100;Churrasco

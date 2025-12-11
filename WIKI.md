@@ -1,7 +1,7 @@
 # 📚 Wiki - NutriHealth Analytics
 
 **Projeto III - Ciência de Dados**  
-**Desenvolvedores:** Leonardo Paiva e Salomão Ferreira
+**Desenvolvedores:** Gustavo, Alves, Leonardo Paiva e Salomão Ferreira
 
 ---
 
@@ -544,5 +544,5 @@ Este projeto serve como base sólida para expansões futuras e comprova a viabil
 
 ---
 
-**Desenvolvido com 💚 por Leonardo Paiva e Salomão Ferreira**  
+**Desenvolvido com 💚 por Gustavao Alves, Leonardo Paiva e Salomão Ferreira**  
 **Tópicos Especiais em Computação & Ciência de Dados - 2025**

@@ -180,6 +180,7 @@ O aplicativo analisa automaticamente:
 
 **Desenvolvedores:**
 
+- 👨‍💻 **Gustavo Alves**
 - 👨‍💻 **Leonardo Paiva**
 - 👨‍💻 **Salomão Ferreira**
 

@@ -1,5 +1,4 @@
 /// Modelo de dados para registros nutricionais e de saúde
-/// Projeto NutriHealth Analytics - Leonardo Paiva e Salomão Ferreira
 class HealthRecordModel {
   final String id;
   final String titulo;

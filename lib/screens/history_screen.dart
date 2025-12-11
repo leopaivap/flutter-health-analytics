@@ -5,7 +5,6 @@ import '../models/health_record_model.dart';
 import '../services/data_repository.dart';
 
 /// Tela de Histórico com lista detalhada e filtros
-/// Projeto NutriHealth Analytics - Leonardo Paiva e Salomão Ferreira
 class HistoryScreen extends StatefulWidget {
   const HistoryScreen({Key? key}) : super(key: key);
 

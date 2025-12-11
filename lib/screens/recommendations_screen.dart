@@ -7,7 +7,6 @@ import 'dart:math' as math;
 
 /// Tela de Recomendações Personalizadas
 /// Sistema inteligente de recomendações baseado em análise de dados do usuário
-/// Projeto NutriHealth Analytics - Leonardo Paiva e Salomão Ferreira
 class RecommendationsScreen extends StatefulWidget {
   const RecommendationsScreen({Key? key}) : super(key: key);
 

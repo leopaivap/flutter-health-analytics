@@ -7,7 +7,6 @@ import '../services/data_repository.dart';
 
 /// Tela de Análise de Tendências
 /// Exibe análises estatísticas e gráficos de evolução temporal
-/// Projeto NutriHealth Analytics - Leonardo Paiva e Salomão Ferreira
 class TrendsScreen extends StatefulWidget {
   const TrendsScreen({super.key});
 

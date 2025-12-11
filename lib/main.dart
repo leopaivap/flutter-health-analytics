@@ -3,7 +3,7 @@ import 'screens/home_container.dart';
 
 /// Aplicativo NutriHealth Analytics - Monitoramento Nutricional com IA
 /// Projeto III - Ciência de Dados
-/// Desenvolvido por: Leonardo Paiva e Salomão Ferreira
+
 void main() {
   runApp(const NutriHealthApp());
 }

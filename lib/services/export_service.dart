@@ -6,7 +6,6 @@ import 'package:universal_html/html.dart' as html;
 import '../models/health_record_model.dart';
 
 /// Serviço de exportação com geração de arquivos CSV e PDF (HTML)
-/// Projeto NutriHealth Analytics - Leonardo Paiva e Salomão Ferreira
 class ExportService {
   /// Exporta registros nutricionais para arquivo CSV
   static Future<bool> exportToCSV(List<HealthRecordModel> records) async {
@@ -207,7 +206,7 @@ class ExportService {
     
     <div class="footer">
         <p>📄 Relatório gerado pelo NutriHealth Analytics</p>
-        <p>👨‍💻 Leonardo Paiva e Salomão Ferreira</p>
+        <p>👨‍💻 Gustavo Alves, Leonardo Paiva e Salomão Ferreira</p>
         <p>💡 <strong>Dica:</strong> Use Ctrl+P para salvar como PDF</p>
     </div>
 </body>

@@ -8,7 +8,6 @@ import 'trends_screen.dart';
 import 'recommendations_screen.dart';
 
 /// Container principal com navegação por abas
-/// Projeto NutriHealth Analytics - Leonardo Paiva e Salomão Ferreira
 class HomeContainer extends StatefulWidget {
   const HomeContainer({Key? key}) : super(key: key);
 

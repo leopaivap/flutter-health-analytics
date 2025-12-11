@@ -7,7 +7,6 @@ import '../services/data_repository.dart';
 import '../services/export_service.dart';
 
 /// Dashboard principal com predição de peso e análise nutricional
-/// Projeto NutriHealth Analytics - Leonardo Paiva e Salomão Ferreira
 class DashboardScreen extends StatefulWidget {
   const DashboardScreen({super.key});
 

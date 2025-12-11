@@ -2,7 +2,6 @@ import 'dart:math';
 import '../models/health_record_model.dart';
 
 /// Repositório de dados com geração de registros nutricionais e predição de peso
-/// Projeto NutriHealth Analytics - Leonardo Paiva e Salomão Ferreira
 ///
 /// CIÊNCIA DE DADOS APLICADA:
 /// - Geração de dados sintéticos realistas baseados em padrões nutricionais

@@ -6,7 +6,6 @@ import '../models/health_record_model.dart';
 import '../services/data_repository.dart';
 
 /// Tela de Análise por Categorias com PieChart interativo
-/// Projeto NutriHealth Analytics - Leonardo Paiva e Salomão Ferreira
 class CategoriesScreen extends StatefulWidget {
   const CategoriesScreen({super.key});
 
